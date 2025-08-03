@@ -46,7 +46,7 @@ pipeline {
 
     stage('Fin du pipeline') {
       steps {
-        echo "✅ Pipeline terminé avec succès"
+        echo "Pipeline terminé avec succès"
       }
     }
   }
